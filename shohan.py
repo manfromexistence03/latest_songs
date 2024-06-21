@@ -1,7 +1,7 @@
 from pytube import Playlist
 
 # Replace with your YouTube playlist URL
-playlist_url = "https://www.youtube.com/watch?v=z-diRlyLGzo&list=PLldRXoeaXPNm2wL1iy2fBMc55c1T8ZLhp"
+playlist_url = "https://www.youtube.com/watch?v=bMRad2dbPSc&list=PL5rwmnIfA-Ig6tN5TZGTc1zWxEtBrIspg"
 
 # Initialize the playlist
 playlist = Playlist(playlist_url)

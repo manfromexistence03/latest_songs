@@ -1,5 +1,7 @@
 #!/bin/bash
 
+python shohan.py
+
 # Function to check if a file has the .mp4 extension
 has_mp4_extension() {
   local filename="$1"
